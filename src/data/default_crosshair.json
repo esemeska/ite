@@ -1,0 +1,10 @@
+{
+   "width": 1,
+   "length": 8,
+   "gap": 10,
+   "dot": {
+      "is_dot": true,
+      "dot_size": 1,
+      "dot_color": null
+   }
+}
